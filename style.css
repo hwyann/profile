@@ -22,7 +22,7 @@ h2 {
 
 .img-circle{
   border-radius: 50%;
-  box-shadow: 0px 10px 15px lightgrey;
+  box-shadow: 0px 10px 15px #e8ffff;
 }
 
 .text-center {
@@ -42,8 +42,8 @@ i{
 }
 
 ul > li:hover {
-  background-color: lightgrey;
-  transition-duration: 3ms;
+  background-color: #e8ffff;
+  transition: 3ms;
 }
 
 i:hover{
