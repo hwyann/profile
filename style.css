@@ -41,14 +41,14 @@ i{
   transition-duration: 1s;
 }
 
-i:hover{
-  color: #f56a79;
-  transition-duration: 1s;
-}
-
 ul > li:hover {
   background-color: lightgrey;
   transition-duration: 3ms;
+}
+
+i:hover{
+  color: #f56a79;
+  transition-duration: 1s;
 }
 
 .button {
